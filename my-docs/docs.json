@@ -8,6 +8,14 @@
     "dark": "#15803D"
   },
   "favicon": "/favicon.svg",
+  "openapi": [
+    "webapi_a.json",
+    "webapi_b.json",
+    "mobile/ios_v1.json",
+    "mobile/ios_v2.json",
+    "mobile/android_v1.json",
+    "mobile/android_v2.json"
+  ],
   "navigation": {
     "tabs": [
       {
